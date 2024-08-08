@@ -1,2 +1,2 @@
-{"name":"joe","email":"joe@gmail.com","password":"$2a$10$eBXrCRo6cVeMVS57jB56Vu5aGXrNm9wA0R0jIndCKrBVQ53NEqkDK","_id":"IahDvptbO8g5Yxbf"}
-{"name":"jhon","email":"jhon@gmail.com","password":"$2a$10$2KR1IyLW/8JsAOO3H9m7rObRVlHNCRUmPDkb5KnL2zulkMgFGLtf6","_id":"fvem3PFbNDniuT4U"}
+{"name":"joe","email":"joe@gmail.com","password":"$2a$10$XKs/vd8Gg151V0CC86pT5uDnWVu6oqOK3OL5k1YKc77Yu3Ir3jvKu","role":"member","_id":"oBuXDOTQhXrSdaNV"}
+{"name":"jhon","email":"jhon@gmail.com","password":"$2a$10$cWMMVhG5Vd5.S/scWBtRuuXA2rowXdU04pKSu./zHKpZdG2iD7qcG","role":"admin","_id":"AWBFgO02hIgw0s0o"}
